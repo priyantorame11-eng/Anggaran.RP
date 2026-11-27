@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "streamlit>=1.61.1",
+    "orange3>=3.41.0",
+    "pandas>=2.2",
 ]
 
 [tool.uv]
